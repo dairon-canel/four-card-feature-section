@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/four-card-feature-section-using-tailwind-css](https://www.frontendmentor.io/solutions/four-card-feature-section-using-tailwind-css-7s_ftMU1rv)
 - Live Site URL: [https://frontendmentor-task12-daironcanel.netlify.app/](https://frontendmentor-task12-daironcanel.netlify.app/)
 
 ## My process
