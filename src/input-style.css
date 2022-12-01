@@ -11,6 +11,12 @@ body {
   font-size: 0.94rem;
 }
 
+@media (min-width: 768px) {
+  .md\:max-w-main {
+    max-width: 65rem;
+  }
+}
+
 .attribution {
   position: fixed;
   width: 100vw;
