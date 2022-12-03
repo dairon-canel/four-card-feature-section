@@ -557,18 +557,6 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-.order-2 {
-  order: 2;
-}
-
-.order-1 {
-  order: 1;
-}
-
-.order-3 {
-  order: 3;
-}
-
 .mx-7 {
   margin-left: 1.75rem;
   margin-right: 1.75rem;
@@ -597,6 +585,10 @@ video {
 
 .mb-6 {
   margin-bottom: 1.5rem;
+}
+
+.block {
+  display: block;
 }
 
 .flex {
